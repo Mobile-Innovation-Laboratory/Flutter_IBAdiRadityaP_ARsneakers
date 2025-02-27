@@ -29,7 +29,6 @@ ARsneaker adalah platform e-commerce inovatif yang menggabungkan teknologi **Aug
 - **OS**: Android 7.0 (Nougat) ke atas
 - **RAM**: Minimum 3GB untuk pengalaman yang optimal
 - **Processor**: Quad-core 1.8 GHz atau lebih tinggi
-- **Storage**: Minimum 200MB ruang kosong
 
 # 📌 Alur Penggunaan Aplikasi
 
