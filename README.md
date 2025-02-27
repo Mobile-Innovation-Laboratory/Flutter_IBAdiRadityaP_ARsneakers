@@ -1,6 +1,6 @@
 # ARsneakers
 
-ARsneaker adalah platform e-commerce inovatif yang menggabungkan teknologi **Augmented Reality (AR)** untuk memberikan pengalaman belanja sepatu yang lebih interaktif dan realistis. Dengan ARsneaker, pengguna dapat melihat dan mencoba sepatu secara virtual dalam waktu nyata sebelum melakukan pembelian.
+ARsneakers adalah platform e-commerce inovatif yang menggabungkan teknologi **Augmented Reality (AR)** untuk memberikan pengalaman belanja sepatu yang lebih interaktif dan realistis. Dengan ARsneakers, pengguna dapat melihat dan mencoba sepatu secara virtual dalam waktu nyata sebelum melakukan pembelian.
 
 ## 🚀 Fitur Utama
 
@@ -125,4 +125,4 @@ ARsneaker adalah platform e-commerce inovatif yang menggabungkan teknologi **Aug
 
 ---
 
-**ARsneaker - Cara Baru Berbelanja Sneakers dengan Teknologi AR!**
+**ARsneakers - Cara Baru Berbelanja Sneakers dengan Teknologi AR!**
