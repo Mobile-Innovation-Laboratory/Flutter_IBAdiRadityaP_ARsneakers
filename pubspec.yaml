@@ -1,0 +1,50 @@
+name: arsneakers
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.12.0
+  cloud_firestore: ^5.6.4
+  shared_preferences: ^2.5.2
+  get: ^4.7.2
+  firebase_auth: ^5.5.0
+  lottie: ^3.3.1
+  flutter_native_splash: ^2.4.4
+  dio: ^5.8.0+1
+  google_fonts: ^6.2.1
+  get_cli: ^1.8.1
+  arcore_flutter_plugin: ^0.1.0
+  vector_math: ^2.1.4
+  firebase_storage: ^12.4.4
+  file_picker: ^9.0.1
+  image_picker: ^1.1.2
+  carousel_slider: ^5.0.0
+  uuid: ^4.5.1
+  path_provider: ^2.1.5
+  fl_chart: ^0.70.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/model.glb
+    - assets/lottie/
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/splash-logo.png
+  android: true
+  ios: true
+  web: false

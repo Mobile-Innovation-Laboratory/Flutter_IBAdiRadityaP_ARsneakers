@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833708739070",
+    "project_id": "arsneakers-console",
+    "storage_bucket": "arsneakers-console.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833708739070:android:6a4273fccbb87c93d858af",
+        "android_client_info": {
+          "package_name": "com.example.arsneakers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV7ZnnwbXRFX6Jg3Z7Dr8JiCoFGW-Z4to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
