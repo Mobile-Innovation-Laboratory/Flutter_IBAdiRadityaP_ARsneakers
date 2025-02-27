@@ -26,7 +26,7 @@ ARsneaker adalah platform e-commerce inovatif yang menggabungkan teknologi **Aug
 
 - **Java Version**: 17
 - **Minimum SDK**: 24
-- **OS**: Android 7.0 (Nougat) ke atas 
+- **OS**: Android 7.0 (Nougat) ke atas
 - **RAM**: Minimum 3GB untuk pengalaman yang optimal
 - **Processor**: Quad-core 1.8 GHz atau lebih tinggi
 - **Storage**: Minimum 200MB ruang kosong
@@ -118,6 +118,7 @@ ARsneaker adalah platform e-commerce inovatif yang menggabungkan teknologi **Aug
 ## 📦 Instalasi & Menjalankan Proyek
 
 1. Clone repositori ini:
+   git remote add origin https://github.com/Mobile-Innovation-Laboratory/Flutter_IBAdiRadityaP_ARsneakers.git
 2. Install dependensi:
    flutter pub get
 3. Jalankan aplikasi:
